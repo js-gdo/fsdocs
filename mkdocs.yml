@@ -1,0 +1,19 @@
+site_name: FutureServer文档
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+  palette:
+    scheme: default
+    primary: blue
+plugins:
+  - search
+nav:
+  - 首页: index.md
+  - 用户安全:
+      - 如何解封: user-safety/how-unban.md
+  - 玩法: gameplay.md
+  - 公告: broad.md
