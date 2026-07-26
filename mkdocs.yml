@@ -13,7 +13,9 @@ plugins:
   - search
 nav:
   - 首页: index.md
-  - 用户安全:
-      - 如何解封: user-safety/how-unban.md
-  - 玩法: gameplay.md
   - 公告: broad.md
+  - 规则: rules.md
+  - 用户安全:
+      - 处罚（如何解封）: user-safety/punish.md
+      - 被盗号了怎么办: user-safety/user-stolen.md
+  - 玩法: gameplay.md
