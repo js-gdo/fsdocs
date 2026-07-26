@@ -19,3 +19,6 @@ nav:
       - 处罚（如何解封）: user-safety/punish.md
       - 被盗号了怎么办: user-safety/user-stolen.md
   - 玩法: gameplay.md
+  - 铁路(FSRI):
+      - 公告: fsri/broad.md
+      - 加入: fsri/join.md
