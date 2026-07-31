@@ -11,6 +11,11 @@ theme:
     primary: blue
 plugins:
   - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details       # 实现折叠面板核心
+  - pymdownx.superfences
 nav:
   - 首页: index.md
   - 公告: broad.md
@@ -25,3 +30,6 @@ nav:
       - 人员: fsri/list.md
       - 铁路文章:
           - 对于FutureServer铁路调研情况: fsri/comments/202607001.md
+  - 标准:
+      - FB(服务器标准):
+          - FB101 地铁建设标准: std/fb/fb101.md
